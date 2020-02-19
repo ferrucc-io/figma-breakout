@@ -1,0 +1,12 @@
+{
+  "name": "Breakout",
+  "id": "812073648969247917",
+  "api": "1.0.0",
+  "main": "src/code.js",
+  "ui": "src/ui.html",
+  "menu": [
+    {"name": "Start Playing", "command": "start-playing"},
+    {"separator": true},
+    {"name": "Follow me on Twitter", "command": "follow-me"}
+  ]
+}
